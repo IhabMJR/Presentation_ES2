@@ -9,8 +9,25 @@
 ## Scénario
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+A[Le visiteur se tient devant le miroir] --> B[Detection faciale activée]
+    B --> C{Visage déjà détecté aujourd'hui?}
+    C -- Non --> D[Le visage est analysé]
+    D -- Après un peu de temps --> E[Le reflet commence à se distordre lentement et des bruits légers commencent à jouer]
+    C -- Oui --> F[Le visage est déformé d'une nouvelle façon]
+    
+    E --> G{L'utilisateur fait des expressions?}
+    F --> G
+    G -- Oui --> H[Les distorsions augmentent]
+    G -- Non --> I[Le reflet reste statique]
+
+    H --> J[Des messages cryptiques superposés commencent à jouer]
+    I --> K[Effets visuels et sonores glitchés passifs]
+    
+    J & K --> L{La personne reste ?}
+    L -- Oui --> M[Les effets gardent une intensité constante]
+    L -- Non --> N[Les effets sont réinitialisés en attente de la prochaine personne]
+
+    N --> O[Affichage du nombre de visages capturés sur un autre écran à travers la journée]
+    M --> O
+
 ```
