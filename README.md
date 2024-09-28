@@ -37,4 +37,14 @@ A[Le visiteur se tient devant le miroir] --> B[Détection faciale activée]
 
 ![moodboard](moodboard.jpg)
 
-Les tons neutres de la palette de couleurs renforcent la nature sérieuse du thème, tandis que les couleurs vives sont utilisées pour capturer l'attention et créer un contraste de couleur qui ressort les effets visuels. Le mélange de ces couleurs nous donne une palette dystopique qui ressort encore une fois le thème de l'expérience.
+Les tons neutres de la palette de couleurs renforcent la nature sérieuse du thème, tandis que les couleurs vives sont utilisées pour capturer l'attention et créer un contraste de couleur qui ressort les effets visuels. Le mélange de ces couleurs nous donne une palette dystopique qui ressort le thème de l'expérience.
+
+## Technologies
+
+| **Logiciel**                    | **Utilisation**                                                            |
+|---------------------------------|----------------------------------------------------------------------------|
+| **face-api.js**                 | Reconnaissance faciale en temps réel                                       |
+| **Max**                         | Conception sonore et manipulation audio en temps réel                      |
+| **TouchDesigner**               | Application des effets visuels et distorsions en temps réel                |
+| **OSC**                         | Transfert de données en temps réel entre face-api.js, Max et TouchDesigner |
+| **Arduino**                     | Contrôle des capteurs ou du matériel interactif                            |
