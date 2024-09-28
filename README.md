@@ -32,3 +32,7 @@ A[Le visiteur se tient devant le miroir] --> B[Détection faciale activée]
 
     P --> A
 ```
+
+## Scénario
+
+![moodboard](moodboard.jpg)
