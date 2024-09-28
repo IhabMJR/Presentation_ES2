@@ -33,6 +33,8 @@ A[Le visiteur se tient devant le miroir] --> B[Détection faciale activée]
     P --> A
 ```
 
-## Scénario
+## Ambiance
 
 ![moodboard](moodboard.jpg)
+
+Les tons neutres de la palette de couleurs renforcent la nature sérieuse du thème, tandis que les couleurs vives sont utilisées pour capturer l'attention et créer un contraste de couleur qui ressort les effets visuels. Le mélange de ces couleurs nous donne une palette dystopique qui ressort encore une fois le thème de l'expérience.
