@@ -64,6 +64,13 @@ Pour la partie sonore du projet, des bruits urbains distordus et des effets sono
 - 3-4 hauts-parleurs
 - 2 écrans LED
 
+<br>
+
+![Magic Miror](magic_mirror.png)
+<sub>Les matériaux utilisés nous permettront de créer un miroir similaire au [MagicMirror](https://magicmirror.builders/)</sub>
+<br>
+
+
 ### Logiciel
 
 | **Logiciel**                    | **Utilisation**                                                            |
