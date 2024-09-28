@@ -45,6 +45,15 @@ Les images affichant un visage illustrent les effets de glitch potentiels sur l'
 ### Palette de couleurs
 Les tons neutres de la palette de couleurs renforcent la nature sérieuse du thème, tandis que les couleurs vives sont utilisées pour capturer l'attention et créer un contraste de couleur qui ressort les effets visuels. Le mélange de ces couleurs nous donne une palette dystopique qui ressort le thème de l'expérience.
 
+### Audio
+
+Pour la partie sonore du projet, des bruits urbains distordus et des effets sonores électroniques sont utilisés pour évoquer une ambiance troublante afin de susciter une réaction d'inconfort dans l'utilisateur.
+
+[Exemple d'ambiance 1](https://www.youtube.com/watch?v=dIyfNWt7qSE)
+<br>
+[Exemple d'ambiance 2](https://www.youtube.com/watch?v=iym0s9Pa2LE)
+
+
 ## Technologies
 
 | **Logiciel**                    | **Utilisation**                                                            |
