@@ -37,6 +37,12 @@ A[Le visiteur se tient devant le miroir] --> B[Détection faciale activée]
 
 ![moodboard](moodboard.jpg)
 
+Les visuels sombres et électroniques de cette installation créent une ambiance mystérieuse et captivante, inspirée par des mondes dystopiques fictifs comme "Blade Runner" et "1984".
+
+### Rôle de la Planche d'Ambiances
+Les images affichant un visage illustrent les effets de glitch potentiels sur l'utilisateur. L'image du miroir représente le sujet central de l'œuvre : le miroir lui-même. Des transitions ou des pop-ups de lignes de code peuvent apparaître pour simuler les actions réalisées en arrière-plan par le miroir.
+
+### Palette de couleurs
 Les tons neutres de la palette de couleurs renforcent la nature sérieuse du thème, tandis que les couleurs vives sont utilisées pour capturer l'attention et créer un contraste de couleur qui ressort les effets visuels. Le mélange de ces couleurs nous donne une palette dystopique qui ressort le thème de l'expérience.
 
 ## Technologies
