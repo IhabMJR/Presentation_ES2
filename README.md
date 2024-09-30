@@ -70,13 +70,10 @@ Pour la partie sonore du projet, des bruits urbains distordus et des effets sono
 <sub>Les matériaux utilisés nous permettront de créer un miroir similaire au [MagicMirror](https://magicmirror.builders/)</sub>
 <br>
 
-
-### Logiciel
-
 | **Logiciel**                    | **Utilisation**                                                            |
 |---------------------------------|----------------------------------------------------------------------------|
-| **face-api.js**                 | Reconnaissance faciale en temps réel                                       |
-| **Max**                         | Conception sonore et manipulation audio en temps réel                      |
-| **TouchDesigner**               | Application des effets visuels et distorsions en temps réel                |
-| **OSC**                         | Transfert de données en temps réel entre face-api.js, Max et TouchDesigner |
-| **Arduino**                     | Contrôle des capteurs                                                      |
+| face-api.js                     | Reconnaissance faciale en temps réel                                       |
+| Max                             | Conception sonore et manipulation audio en temps réel                      |
+| TouchDesigner                   | Application des effets visuels et distorsions en temps réel                |
+| OSC                             | Transfert de données en temps réel entre face-api.js, Max et TouchDesigner |
+| Arduino                         | Contrôle des capteurs                                                      |
