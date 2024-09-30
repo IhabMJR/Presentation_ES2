@@ -61,7 +61,7 @@ Pour la partie sonore du projet, des bruits urbains distordus et des effets sono
 
 - Un PC avec GPU dédié
 - Une caméra
-- 3-4 hauts-parleurs
+- 4 hauts-parleurs
 - 2 écrans LED
 
 <br>
@@ -74,6 +74,6 @@ Pour la partie sonore du projet, des bruits urbains distordus et des effets sono
 |---------------------------------|----------------------------------------------------------------------------|
 | face-api.js                     | Reconnaissance faciale en temps réel                                       |
 | Max                             | Conception sonore et manipulation audio en temps réel                      |
-| TouchDesigner                   | Application des effets visuels et distorsions en temps réel                |
+| TouchDesigner                   | Effets visuels et distorsions en temps réel                |
 | OSC                             | Transfert de données en temps réel entre face-api.js, Max et TouchDesigner |
 | Arduino                         | Contrôle des capteurs                                                      |
